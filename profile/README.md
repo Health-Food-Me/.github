@@ -1,8 +1,13 @@
+<img src="https://user-images.githubusercontent.com/54518925/178132999-5ef602ff-d3cf-48e4-9882-7b2efa31cac7.png" width="45%"/>
+
 ## 헬푸미(Health-Food-Me)
 
-**샐러드부터 일반식까지** 
+**샐러드부터 일반식까지!** 
 
 다이어터들의 외식 걱정을 줄여주는 다이어트 식당 지도 앱
+
+
+
 
 <!--
 
